@@ -1,0 +1,23 @@
+YAZILIM MİMARİLERİ
+
+yazılım mühendisliği kavramı: 
+
+kullanıcıların iihityaç doğrultusunda bu ihtiyaca cevap verecek;
+yazılım gereksinimlerinin belillenmesi 
+tassarım yapılması
+prog dillerini kullanarka kodlnması gibi görevler üstlenir
+
+son kullanıcı odalı çalışır
+
+bil sis olsn her yerde çalışılır
+
+
+üstlenilen görevler;
+
+aranan genel öözellikler;
+
+rol sorumluluk vr iş tanımlasrı;
+
+
+
+
